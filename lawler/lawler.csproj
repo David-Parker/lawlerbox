@@ -169,7 +169,11 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\banner1.png" />
+    <Content Include="Content\images\marble.png" />
     <Content Include="Content\images\marble_mania.png" />
+    <Content Include="Content\images\MSFT_logo_rgb_C-Gray.png" />
+    <Content Include="Content\images\NIOfficialLogo.JPG" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

@@ -6,24 +6,20 @@ using System.Web.Mvc;
 
 namespace lawler.Controllers
 {
-    public class HomeController : Controller
+    public class CareerController : Controller
     {
-        public ActionResult Index()
+        // GET: Career
+        public ActionResult Microsoft()
         {
             return View();
         }
-
-        public ActionResult About()
+        // National Instruments
+        public ActionResult NI()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
-
-        public ActionResult Contact()
+        public ActionResult Marble()
         {
-            ViewBag.Message = "David Parker";
-
             return View();
         }
     }
